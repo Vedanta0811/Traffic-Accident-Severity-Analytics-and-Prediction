@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment variables (never commit secrets)
+.env
+
+# Data files (large, generated at runtime)
+data/raw/
+data/processed/
+data/quarantine/
+data/rejected/
+data/*.db
+data/*.sqlite
+
+# Local docs / assignments
+*.pdf
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# MLflow artifacts (large binary files)
+mlruns/
+
+# Trained model files (large binaries)
+models/*.pkl
+models/*.pt
+models/*.h5
+
+# Reports (generated at runtime)
+reports/*.html
+
+# Docker volumes & caches
+pgdata/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.bak
+tmp/
+
+.claude/
+
+# Local source datasets
+datasets/
