@@ -1,6 +1,6 @@
 # Traffic Accident Severity Analytics and Prediction
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://traffic-accident-severity-analytics-and-prediction-3yzwgf7tuhc.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://traffic-accident-severity-analytics-and-prediction-3yzwgf7tuhc.streamlit.app/)](https://traffic-accident-severity-analytics-and-prediction-vedanta08.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2.svg)](https://mlflow.org/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED.svg)](https://www.docker.com/)
